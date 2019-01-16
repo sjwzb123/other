@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GuoGuo.iml" filepath="$PROJECT_DIR$/GuoGuo.iml" />
       <module fileurl="file://$PROJECT_DIR$/LayoutManagerGroup/LayoutManagerGroup.iml" filepath="$PROJECT_DIR$/LayoutManagerGroup/LayoutManagerGroup.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/commlib/commlib.iml" filepath="$PROJECT_DIR$/commlib/commlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/other.iml" filepath="$PROJECT_DIR$/other.iml" />
     </modules>
   </component>
 </project>

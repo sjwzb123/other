@@ -15,11 +15,7 @@ import com.tencent.mm.opensdk.modelmsg.WXTextObject;
 import com.tencent.mm.opensdk.modelmsg.WXWebpageObject;
 import com.tencent.mm.opensdk.openapi.IWXAPI;
 import com.tencent.mm.opensdk.openapi.WXAPIFactory;
-import com.ushareit.common.utils.TaskHelper;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.PropertyResourceBundle;
 
 
 /**

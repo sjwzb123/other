@@ -6,9 +6,8 @@ import android.content.Context;
 import com.kuli.commlib.Utils.DisplayUtils;
 import com.sjw.guoguo.bean.UserBean;
 import com.sjw.guoguo.db.dao.UserDao;
+import com.sjw.guoguo.util.ObjectStore;
 import com.tencent.mm.opensdk.openapi.WXAPIFactory;
-import com.ushareit.common.appertizers.Logger;
-import com.ushareit.common.lang.ObjectStore;
 
 import cn.bmob.v3.Bmob;
 import cn.bmob.v3.BmobObject;

@@ -1,10 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.donkingliang:ImageSelector-1.2.0">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/commlib/build/intermediates/exploded-aar/com.github.donkingliang/ImageSelector/1.2.0/res" />
       <root url="jar://$PROJECT_DIR$/commlib/build/intermediates/exploded-aar/com.github.donkingliang/ImageSelector/1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/commlib/build/intermediates/exploded-aar/com.github.donkingliang/ImageSelector/1.2.0/res" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.donkingliang/ImageSelector/1.2.0/486da134b4b939e504e49679c03a4dc283ffd3b9/ImageSelector-1.2.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

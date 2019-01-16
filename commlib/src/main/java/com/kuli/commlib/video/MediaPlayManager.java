@@ -13,8 +13,7 @@ import com.tencent.rtmp.TXLiveConstants;
 import com.tencent.rtmp.TXVodPlayConfig;
 import com.tencent.rtmp.TXVodPlayer;
 import com.tencent.rtmp.ui.TXCloudVideoView;
-import com.ushareit.common.appertizers.Logger;
-import com.ushareit.common.fs.IFileStore;
+
 
 
 public class MediaPlayManager {

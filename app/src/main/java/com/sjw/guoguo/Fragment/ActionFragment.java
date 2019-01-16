@@ -25,10 +25,9 @@ import com.sjw.guoguo.R;
 import com.sjw.guoguo.adapter.ActAdapter;
 import com.sjw.guoguo.bean.Goods;
 import com.sjw.guoguo.http.HttpManager;
+import com.sjw.guoguo.util.ObjectStore;
 import com.tencent.mm.opensdk.utils.Log;
 import com.tencent.rtmp.ui.TXCloudVideoView;
-import com.ushareit.common.appertizers.Logger;
-import com.ushareit.common.lang.ObjectStore;
 
 import java.util.List;
 

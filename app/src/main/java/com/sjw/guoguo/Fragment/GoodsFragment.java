@@ -26,9 +26,9 @@ import com.sjw.guoguo.bean.GoodPic;
 import com.sjw.guoguo.bean.Goods;
 import com.sjw.guoguo.db.dao.CartDao;
 import com.sjw.guoguo.http.HttpManager;
+import com.sjw.guoguo.util.ObjectStore;
 import com.sjw.guoguo.wxapi.WXEntryActivity;
-import com.ushareit.common.lang.ObjectStore;
-import com.ushareit.common.utils.TaskHelper;
+
 
 import java.util.List;
 

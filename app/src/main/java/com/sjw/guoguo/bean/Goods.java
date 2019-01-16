@@ -1,6 +1,5 @@
 package com.sjw.guoguo.bean;
 
-import com.ushareit.common.fs.SFile;
 
 import java.util.List;
 

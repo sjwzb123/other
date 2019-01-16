@@ -19,6 +19,7 @@ import com.sjw.guoguo.GGApp;
 import com.sjw.guoguo.R;
 import com.sjw.guoguo.bean.Goods;
 import com.sjw.guoguo.http.HttpManager;
+import com.sjw.guoguo.util.ObjectStore;
 import com.tencent.mm.opensdk.modelbase.BaseReq;
 import com.tencent.mm.opensdk.modelbase.BaseResp;
 import com.tencent.mm.opensdk.modelmsg.SendAuth;
@@ -28,7 +29,7 @@ import com.tencent.mm.opensdk.modelmsg.WXTextObject;
 import com.tencent.mm.opensdk.openapi.IWXAPI;
 import com.tencent.mm.opensdk.openapi.IWXAPIEventHandler;
 import com.tencent.mm.opensdk.openapi.WXAPIFactory;
-import com.ushareit.common.lang.ObjectStore;
+
 
 import java.util.List;
 

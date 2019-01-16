@@ -23,7 +23,6 @@ import com.sjw.guoguo.bean.OrderBean;
 import com.sjw.guoguo.bean.UserBean;
 import com.sjw.guoguo.db.dao.CartDao;
 import com.sjw.guoguo.http.HttpManager;
-import com.ushareit.common.utils.TaskHelper;
 
 import java.util.List;
 
